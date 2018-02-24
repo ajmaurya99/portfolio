@@ -6,7 +6,7 @@
 2. B.E. (Computer Engineering), [University of Mumbai](https://en.wikipedia.org/wiki/University_of_Mumbai)
 3. [WordCamp Organiser](https://2017.mumbai.wordcamp.org/localhost/)
 
-## Summary
+## Work Experience
 *2014 - Present*  **Front End Developer** at  [Flying Cursor Interactive](http://flyingcursor.com/)
 * Develop & implement UI/UX prototypes.
 * Develop WordPress themes and plugins.
