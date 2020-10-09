@@ -97,7 +97,7 @@ Email - ajmaurya101[@]gmail[dot]com
 <img src="https://img.shields.io/badge/-Twitter_API-2088FF?style=flat-square&logo=twitter&logoColor=white" alt="Twitter API" title="Twitter API"  height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" title="Docker" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain-wordmark.svg" alt="Travis CI" title="Travis CI" width="45" height="30" />
-<img src="https://img.shields.io/badge/-Jenkins-FB542B?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" title="Jenkins  height="25" />
+<img src="https://img.shields.io/badge/-Jenkins-FB542B?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" title="Jenkins"  height="25" />
 <img src="https://wp-cli.org/assets/img/wp-cli-logo-inverted.png" alt="WP CLI" title="WP CLI"  height="25" />
 <img src="https://www.univention.com/wp-content/uploads/2020/04/200416-rest-api.jpg" alt="Rest API" title="Rest API"  height="25" />
 </p>
