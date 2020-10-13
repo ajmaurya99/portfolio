@@ -38,7 +38,7 @@ Email - ajmaurya101[@]gmail[dot]com
  
 
 ## Work Experience
-*2018 - Present*  **Frontend Engineer** at  [BrowserStack](https://www.browserstack.com/)
+*2018 - Present*  **Senior WordPres(FrontEnd) Engineer** at  [BrowserStack](https://www.browserstack.com/)
 * Managed their WordPress website and developing solutions.
 * Created CI/CD Deploy Pipelines and alerting around systems.
 * Improved Website performance and created self serve dashboards for multiple teams.
@@ -46,7 +46,7 @@ Email - ajmaurya101[@]gmail[dot]com
 * Introduced and leveraged new concepts and industry knowledge in the team to enhance self and team's knowledge and productivity.
 * Supports new hires in their journey to learn and acquire knowledge.
 
-*2014 - 2018*  **Seniow Web Developer** at  [Flying Cursor Interactive](https://flyingcursor.com/)
+*2014 - 2018*  **Senior Web Developer** at  [Flying Cursor Interactive](https://flyingcursor.com/)
 * Web Applications & Mobile App Development.
 * WordPress Theme and Plugin Development.
 * Created CI/CD Deploy Pipelines.
