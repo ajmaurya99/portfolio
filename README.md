@@ -38,7 +38,7 @@ Email - ajmaurya101[@]gmail[dot]com
  
 
 ## Work Experience
-*2018 - Present*  **Senior WordPres(FrontEnd) Engineer** at  [BrowserStack](https://www.browserstack.com/)
+*2018 - Present*  **Senior WordPress(FrontEnd) Engineer** at  [BrowserStack](https://www.browserstack.com/)
 * Managed their WordPress website and developing solutions.
 * Created CI/CD Deploy Pipelines and alerting around systems.
 * Improved Website performance and created self serve dashboards for multiple teams.
