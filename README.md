@@ -54,8 +54,6 @@ Email - ajmaurya101[@]gmail[dot]com
 
 
 ### Associated with the global WordPress Community
-
- Organizing WordCamp Mumbai since 2015
  
  - https://2016.mumbai.wordcamp.org/my-wordcamp-mumbai-journey-volunteer/
  - https://2017.mumbai.wordcamp.org/localhost/
